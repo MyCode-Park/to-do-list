@@ -1,0 +1,5 @@
+VIX Tech used
+
+1. App write used to store the DB
+2. Zustand is used as a replacement for redux and context API 
+3. Map objects 
