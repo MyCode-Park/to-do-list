@@ -3,3 +3,12 @@ VIX Tech used
 1. App write used to store the DB
 2. Zustand is used as a replacement for redux and context API 
 3. Map objects 
+
+
+TS:
+1. Interface and Type 
+
+
+store
+1. set sets the value globally in the store
+2. listDocuments can pass database ID and collection id 
